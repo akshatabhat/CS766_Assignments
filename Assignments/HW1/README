@@ -1,0 +1,1 @@
+After converting iheartny image to grey scale, the heart is grey colored. If we set a threshold of 0.3 while converting it to binary image, the heart vanishes as the pixels in heart is converted to 0(black). Hence, I have set threshold as 0.5 
